@@ -1,5 +1,12 @@
 # react-test
-
+    //安裝react包
+    npm install -g create-react-app
+    //建立環境 example 為資料夾名稱 可替換
+    create-react-app example
+    //目前版本的路由安裝包
+    npm install react-router-dom@5
+    //設置完成後下這行指令啟動即可
+    npm start
 # vercel
     把react build裡面的檔案放到任何github專案中
 
